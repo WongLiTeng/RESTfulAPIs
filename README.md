@@ -2,13 +2,14 @@
 Create RESTful API using SpringBoot and PostgreSQL  
 
 ## PostgreSQL Database Information
-Database: Test  
+Database: test  
 Table: feature  
 Primary Key: featureName, email    
 
 ## Prerequisite
-1. Create database Test in PostgreSQL
-2. Use Postman to test these 2 API  
+1. Create database "test" by execute query "CREATE DATABASE test;" in PostgreSQL
+2. Change username and password in file "application.properties"
+3. Use Postman to test these 2 API  
 
 ## POST Feature API  
 Method: POST  
