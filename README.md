@@ -1,12 +1,12 @@
-# RESTfulAPIs
+## RESTfulAPIs
 Create RESTful API using SpringBoot and PostgreSQL
 
-#PostgreSQL Database
+## PostgreSQL Database
 Database: Test
 Table: feature
 Primary Key: featureName, email
 
-#POST Feature API
+## POST Feature API
 Method: POST
 Endpoint: http://localhost:8080/feature
 Reuest Body:
@@ -16,7 +16,7 @@ Reuest Body:
 	"enable": true
 }
 
-#GET Feature API
+## GET Feature API
 Method: GET
 Endpoint: http://localhost:8080/feature?email=test1@gmail.com&featureName=feature1
 Response Body:
