@@ -9,7 +9,7 @@ Primary Key: featureName, email
 ## Prerequisite
 1. Create database "test" by execute query "CREATE DATABASE test;" in PostgreSQL
 2. Change username and password in file "application.properties"
-3. Open the poject with intellij tools and run the "DemoApplication.java" to start to service  
+3. Open the project with intellij tools and run the "DemoApplication.java" to start to service  
 4. Use Postman to test these 2 API  
 
 ## POST Feature API  
