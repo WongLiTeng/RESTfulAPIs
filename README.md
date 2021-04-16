@@ -1,12 +1,15 @@
-## RESTfulAPIs
+## RESTfulAPIs Change Log
 Create RESTful API using SpringBoot and PostgreSQL  
 
-## PostgreSQL Database
+## PostgreSQL Database Information
 Database: Test  
 Table: feature  
 Primary Key: featureName, email    
 
-### Please use Postman to test these two API as below  
+## Prerequisite
+1. Create database Test in PostgreSQL
+2. Use Postman to test these 2 API  
+
 ## POST Feature API  
 Method: POST  
 Endpoint: http://localhost:8080/feature  
